@@ -11,6 +11,8 @@
     <modules>
         <module>Generic</module>
         <module>HBO</module>
+        <module>Ebay</module>
+        <module>Ebay</module>
     </modules>
 
     <dependencyManagement>

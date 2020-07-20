@@ -7,9 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Generic" />
+        <module name="EBAY" />
         <module name="HBO" />
-        <module name="Ebay" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Ebay" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
