@@ -24,6 +24,9 @@ public class CommonAPI {
             case Ebay:
                 driver.get("http://www.ebay.com/");
                 break;
+            case Netflix:
+                driver.get("https://www.netflix.com/");
+                break;
 
 
         }

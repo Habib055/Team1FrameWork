@@ -10,9 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Generic</module>
-        <module>HBO</module>
         <module>Ebay</module>
         <module>AMAZON</module>
+        <module>Netflix</module>
+        <module>Netflix</module>
     </modules>
 
     <dependencyManagement>
