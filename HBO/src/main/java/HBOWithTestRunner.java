@@ -29,7 +29,7 @@ public class HBOWithTestRunner {
 
     @Test
     public void test1() throws InterruptedException {
-        driver.findElement(By.id("bands/MainNavigation--searchIcon")).sendKeys("Ford v. Ferrari", Keys.ENTER);
+        driver.findElement(By.id("/series")).sendKeys(Keys.ENTER);
         Thread.sleep(2000);
     }
 }
