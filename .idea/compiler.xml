@@ -8,9 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Generic" />
         <module name="EBAY" />
-        <module name="Netflix" />
         <module name="AMAZON" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Netflix" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

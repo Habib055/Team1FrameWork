@@ -26,4 +26,6 @@ public class EbayTestSetup extends EbayTest {
         clickEbayArt();
     }
 
+
+
 }
