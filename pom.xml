@@ -13,7 +13,6 @@
         <module>Ebay</module>
         <module>AMAZON</module>
         <module>Netflix</module>
-        <module>Netflix</module>
     </modules>
 
     <dependencyManagement>
